@@ -15,4 +15,4 @@ y = int(input("What number do you want to end with? "))
 z = int(input("How many should I add each time? "))
 
 for i in range(x, y, z):
-  print(i)
+  print(i) 
