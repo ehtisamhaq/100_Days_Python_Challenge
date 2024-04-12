@@ -1,3 +1,3 @@
 **Today I have learned:**
 
-- string slicing
+- letter guessing game
