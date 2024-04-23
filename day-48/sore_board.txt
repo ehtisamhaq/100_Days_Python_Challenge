@@ -1,0 +1,4 @@
+ami 0
+tumi 100
+se 50
+nai 90
